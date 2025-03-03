@@ -19,10 +19,7 @@
 
 ## Connect with me  
 <div align="center">
-  <a href="mailto:mistrynidhi94@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-%23D44638.svg" alt="Email" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nidhi-mistry-2705/" target="_blank">
+    <a href="https://www.linkedin.com/in/nidhi-mistry-2705/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://x.com/Nidhi_0257" target="blank">
@@ -30,7 +27,7 @@
   </a>
 
   <a href="https://portfolionidhi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2324292E.svg" alt="Portfolio" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Portfolio-%2324292E.svg" alt="Portfolio"  />
   </a>  
 </div>
 
