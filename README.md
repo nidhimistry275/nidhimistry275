@@ -19,15 +19,14 @@
 
 ## Connect with me  
 <div align="center">
-    <a href="https://www.linkedin.com/in/nidhi-mistry-2705/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/nidhi-mistry-2705/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+
   <a href="https://x.com/Nidhi_0257" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 
   <a href="https://portfolionidhi.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2324292E.svg" alt="Portfolio"  />
+    <img src="https://img.shields.io/badge/Portfolio-%2324292E.svg" alt="Portfolio" height="30" width="50" />
   </a>  
 </div>
 
