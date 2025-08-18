@@ -3,15 +3,10 @@
 
 - 🌱 I’m currently learning **Next.Js, AWS**
   
-- 📝 Check out :  <a href="https://portfolionidhi.netlify.app/" target="_blank">Portfolio
-  </a>
 
 - 💬 Ask me about **C++, PHP, React , NodeJS**
 
-- 📫 How to reach me **mistrynidhi94@gmail.com**
 
-- 📄 Know about experience : <a href="https://drive.google.com/file/d/1-pRKDOPzMOw82cs_Rs4t_YgqO_ZJEvs2/view" target="_blank">Here
-  </a>
 
 
 <h3 align="left">Skills:</h3>
